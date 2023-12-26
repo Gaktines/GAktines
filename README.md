@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-My name is GJ Aktines.
-I am currently a home salesman for a contractor in Colorado Springs, Co.
-I am a student with Practicum learning to be a Software Engineer.
-I enjoy hunting, fishing, dancing, and spending time with my family.
+My name is George Aktines.
+I am a Full-stack software engineer with experience in web and mobile development. I developed 5 projects during classes with TripleTen by Yandex bootcamp. I come from the Construction Management, and Sales Industries and I’m exited to bring my leadership, and computer skills to the Tech Industry.
+Not only do I enjoy coding I also enjoy hunting, fishing, dancing, and spending time with my family.  
 Ask me anything.
